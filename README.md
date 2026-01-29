@@ -15,8 +15,8 @@ This template node server can be installed from the PG3 NodeServer Store.
 
 #### Requirements
 
-This template node server will only run on Polyglot version 3. We recommend  
-PG3 on eisy as your devlopmnent envirment. (Polisy is entering mantance-only update phase.)  
+This template node server will only run on Polyglot version 3. 
+We reccomend using PG3 on eisy as your development environment. 
 
 ## Using this Template
 
